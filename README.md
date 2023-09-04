@@ -18,6 +18,4 @@ Collision Handling: When a laser hits an invader, an explosion animation occurs,
 
 Game Over and Win Conditions: The game ends when the player's shooter is hit by an invader or when all invaders are eliminated, resulting in victory.
 
-Inspiration: The project was inspired by Code with Ania Kubów's YouTube tutorial.
-
 This project provides a fun and interactive implementation of the Space Invaders game, serving as a great learning resource for web development enthusiasts. Have fun playing and learning from this classic arcade game implementation!
